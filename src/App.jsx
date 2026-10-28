@@ -451,8 +451,8 @@ export default function App() {
         {/* DESKTOP LOGO / MOBILE HIDDEN */}
 
         <div className="hidden md:block text-center text-3xl md:text-2xl font-extrabold tracking-tight">
-         <p>KE</p>
-         <p>TASTE</p>
+         <p>KE TASTE</p>
+         
         </div>
 
         {/* MOBILE MENU ICON */}
